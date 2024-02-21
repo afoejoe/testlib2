@@ -1,0 +1,22 @@
+{
+  "name": "@sc-reactkit/internal",
+  "version": "2.4.13-alpha-1",
+  "main": "index.js",
+  "jsnext:main": "index.es.js",
+  "module": "index.es.js",
+  "typings": "index.d.ts",
+  "license": "UNLICENSED",
+  "repository": {
+    "url": "git+http://tfs.securitycode.ru/tfs/Design/OPPI/_git/sc-reactkit",
+    "type": "git"
+  },
+  "peerDependencies": {
+    "classnames": "2.3.1",
+    "deep-equal": "^1.0.1",
+    "nanoid": "2.1.11",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1 || ^17.0.1",
+    "react-dom": "^16.13.1 || ^17.0.1"
+  },
+  "gitHead": "eaf1a669be5e36e83d94ffa925e6cffa92208b77"
+}
