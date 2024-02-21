@@ -1,5 +1,5 @@
 {
-  "name": "@sc-reactkit/internal",
+  "name": "@afoejoe/internal",
   "version": "2.4.13-alpha-1",
   "main": "index.js",
   "jsnext:main": "index.es.js",
@@ -7,7 +7,7 @@
   "typings": "index.d.ts",
   "license": "UNLICENSED",
   "repository": {
-    "url": "git+http://tfs.securitycode.ru/tfs/Design/OPPI/_git/sc-reactkit",
+    "url": "https://github.com/afoejoe/testlib2.git",
     "type": "git"
   },
   "peerDependencies": {
